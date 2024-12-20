@@ -8,8 +8,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 ## App Features
--[Recipe List]
--[Detailed View]
+ Recipe List
+
+ Detailed View
+ 
 -[Cooking Instructions]
 -[Ingredients List]
 -[User-Friendly Design]
