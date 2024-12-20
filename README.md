@@ -39,12 +39,12 @@ Set up Flutter SDK in your system environment variables
 
 Specify the Flutter SDK path in your Android Studio settings
 
-##Package used in this project
+## Package used in this project
 
 http - A composable, Future-based library for making HTTP requests.
 
 
-A few resources to get you started if this is your first Flutter project:
+## How to run the appA few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
