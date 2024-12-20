@@ -7,15 +7,14 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-##App Features
+## App Features
 Recipe List
 Detailed View
 Cooking Instructions
 Ingredients List
 User-Friendly Design
 
-##How to Run the App
+## How to run the app
 To run the app, you'll need to set up Flutter and Dart on your machine.
 
 Steps:
